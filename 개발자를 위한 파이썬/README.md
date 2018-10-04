@@ -1,6 +1,6 @@
 ## 개발자를 위한 파이썬
 
-![cover](cover.jpeg)
+<img src= "cover.jpeg" width = "400">
 
 ### Contents
 
