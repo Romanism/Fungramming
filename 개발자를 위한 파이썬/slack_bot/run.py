@@ -9,6 +9,3 @@ def main():
 # 스크립트에서 실행할 것을 작성합니다.
 if __name__ == "__main__":
     main()
-
-# Bot API token
-# xoxb-296578132980-451951633111-qyhyBDERnTy5m1BMhHLbkTDD
