@@ -10,3 +10,4 @@
 | 4주  | Style Guide | 읽기 좋은 코드가<br> 좋은 코드다 | <img src= "img/week4.png" width = "80">  | 핵심은 무조건 짧은 코드가 아니라 사용자의 입장이 우선해야 함                                                               |
 | 5주  | TDD         | Python 기본 TDD        | <img src= "img/week5.png" width = "80">  | Python을 활용해 TDD를 활용하는 방법을 확인할 수 있었음                                                              |
 | 6주  | AWS         | 실전 AWS 워크북           | <img src= "img/week6.jpg" width = "80">  | AWS를 활용한 프로젝트 진행 시 전반적인 흐름파악에 용이                                                                                      |
+| 7주  | Docker         | Docker docs           | <img src= "img/week7.png" width = "80">  | 진행중                                                                                      |
